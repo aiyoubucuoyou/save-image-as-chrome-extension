@@ -2,6 +2,10 @@
 
 一个实用的 Chrome 浏览器扩展，让你可以轻松地将网页上的图片另存为 PNG、JPG 或 WebP 格式。
 
+## 📸 效果预览
+
+![效果预览](screenshots/demo.png)
+
 ## ✨ 功能特性
 
 - 🖼️ **右键菜单转换**：右键点击图片即可选择保存格式
@@ -57,6 +61,8 @@ save-image-as-chrome-extension/
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
+├── screenshots/           # 效果截图
+│   └── demo.png
 └── README.md              # 项目说明文档
 ```
 
